@@ -41,4 +41,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftab44933&show_icons=true&locale=en" alt="aftab44933" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftab44933&" alt="aftab44933" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftab44933&" alt="aftab44933" />
+
+![snake gif](https://github.com/Aftab-Ansarii/Aftab-Ansarii/blob/output/github-contribution-grid-snake.svg)
+
+</p>
