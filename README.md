@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*H4cHks1eEdrW7Zlz.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftab44933&label=Profile%20views&color=0e75b6&style=flat" alt="aftab44933" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aftab-Ansarii&label=Profile%20views&color=0e75b6&style=flat" alt="Aftab-Ansarii" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics**
 
@@ -39,11 +39,6 @@
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftab44933&show_icons=true&locale=en" alt="aftab44933" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aftab-Ansarii&show_icons=true&locale=en" alt="Aftab-Ansarii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftab44933&" alt="aftab44933" />
-
-![snake gif](https://github.com/Aftab-Ansarii/Aftab-Ansarii/blob/output/github-contribution-grid-snake.svg)
-
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab-Ansarii&" alt="Aftab-Ansarii" /></p>
