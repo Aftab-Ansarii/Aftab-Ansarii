@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aftab44933@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e5KkEUfta74OZmd03fXbrGDjp9_C1Gqv/view?usp=sharing](https://drive.google.com/file/d/1e5KkEUfta74OZmd03fXbrGDjp9_C1Gqv/view?usp=sharing)
+- 📄 Know about me [https://drive.google.com/file/d/1WNKYWeCSBBz--qb2_pYvPdj20zZL4lbW/view?usp=drive_link](https://drive.google.com/file/d/1WNKYWeCSBBz--qb2_pYvPdj20zZL4lbW/view?usp=drive_link)
 
 - ⚡ Fun fact **I find solace and confidence in singing whenever life hits a high note or a low one.**
 
