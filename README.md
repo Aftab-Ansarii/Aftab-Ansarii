@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aftab-Ansarii&label=Profile%20views&color=0e75b6&style=flat" alt="Aftab-Ansarii" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics** & **Linux**
 
-- 🤝 I’m looking for the internship as a **Data Analyst**
+- 🤝 I’m looking for the internship or job as a **Data Analyst**
 
 - 📫 How to reach me **aftab44933@gmail.com**
 
